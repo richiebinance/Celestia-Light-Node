@@ -1,7 +1,7 @@
 ![228786938-4112e207-17e4-43c4-bec6-ec93e137df79](https://user-images.githubusercontent.com/82761397/229158545-aa7c5b7e-58b4-4529-a98b-03bdd5242536.jpg)
 
 
-# Celestia-Light-Node
+# Celestia-ITN-Light-Node
 
 # Tutorial Running Light Node Celestia
 
