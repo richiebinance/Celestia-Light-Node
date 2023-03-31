@@ -103,9 +103,10 @@ Cek ID di Explorer : https://tiascan.com/light-nodes
 # Jika Anda mendapatkan pesan header: not found, silakan coba langkah berikut:
 1. hentikan simpul cahayamu
 2. buka direktori .celestia-light-blockspacerace-0
-3. hapus / folder data, pastikan Anda TIDAK menghapus folder kunci
+3. hapus folder /data, pastikan Anda TIDAK menghapus folder /key
 4. init light node Anda lagi
-5. mulai simpul cahaya
+5. start kembali light node
+
 # Hapus Node
 ```
 systemctl stop celestia-lightd
